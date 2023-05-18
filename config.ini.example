@@ -1,0 +1,15 @@
+[APP]
+SIZE = 7
+
+[DATABASE]
+USERNAME = user
+PASSWORD = password
+
+# Production
+TRAIN_HOST = hexcluster0.luovezh.mongodb.net
+
+# Testing and playing
+VAL_HOST = hexclustertest.a0xbwxx.mongodb.net
+
+# Testing multiple servers
+# VAL_HOST = hexcluster0.lwocdls.mongodb.net
